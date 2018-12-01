@@ -25,7 +25,7 @@
 
 
 <h2>Q: What is the relationship between crime and weather?</h2>
-    A: Higher temperatures were generally associated with higher crime frequency. However, extreme weather conditions, measured using precipitation and snowfall, shows a negative correlation to reported crime incidents.
+    A: Higher temperatures were generally associated with higher crime frequency. However, extreme weather conditions, measured using snowfall, show a negative correlation to reported crime incidents after 1.4 inches/hour.
 
 ![Screenshot](Images/Weather1.png)
 ![Screenshot](Images/Weather2.png)
