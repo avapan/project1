@@ -1,5 +1,9 @@
 # Project-1 - Chicago-Crime-Data-2017
 
+Report Prepared by: Ryan Abnavi, Aygul Matyakubova, Qi Pan, Jose Lujan
+
+The following project used crime, location and weather data to answer the following questions about crime in the city of Chicago for 2017.
+
 <h2>Q: What are the patterns in criminal activity?</h2>
     A: Theft, battery, criminal damage & assault are the most commonly reported crimes and can be found evenly distributed throughout the city. These categories make-up almost 60% of all reported crimes in 2017.
 
