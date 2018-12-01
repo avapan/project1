@@ -3,7 +3,7 @@
 <h2>Q: What are the patterns in criminal activity?</h2>
     A: Theft, battery, criminal damage & assault are the most commonly reported crimes and can be found evenly distributed throughout the city. These categories make-up almost 60% of all reported crimes in 2017.
 
-![Screenshot](images/Crimefreq.png)
+![Screenshot](Images/Crimefreq.png)
 
 <h2>Q: How does crime relate to certain socioeconomic factors?</h2>
     A: Household income, population demographics, poverty rate and education level have the highest correlation to total crimes reported as shown in the correlation matrix below.
